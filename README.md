@@ -3,7 +3,7 @@
 Here are my code study notes on the HCI topic, which is a related project I have done myself. 
 
 My personal favorite areas of HCI include
-1. ***AI-driven Simulation of Human Models***
+1. ***Interaction and Human Behavior Modeling***
 2. ***AI-assisted Design***
 3. ***Interactive 3D Graphics***
 
