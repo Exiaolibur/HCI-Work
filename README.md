@@ -2,4 +2,4 @@
 
 Here are my code study notes on the HCI topic, which is a related project I have done myself. 
 
-studying in ***Spatial Audio and Speech Synthesis***
+studying in ***Front end developing***
